@@ -1,16 +1,28 @@
 # TI-9B-ALCORN-Voz-Urbana
 
+## Repositorios del Proyecto
+
+- **Frontend**: [Interfaces gráficas para usuarios y administradores](https://github.com/Nefta11/VozUrbanaFrontend)  
+  Contiene el desarrollo de las interfaces web tanto para los ciudadanos como para el panel administrativo.
+
+- **Backend**: [API RESTful](https://github.com/CarlosJ67/Backend-Voz-Urbana)  
+  Implementa la lógica del servidor, la base de datos y los servicios necesarios para la operación del sistema.
+
+- **Aplicación para Wearable**: [App para smartwatch con Wear OS](https://github.com/MendezPro/VozUrbana-WearOS-Android)  
+  Permite a los usuarios interactuar con el sistema desde dispositivos inteligentes portátiles.
+
+
 <div align="center">
 
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="img/logo_gymbulls.png" alt="Logo Voz Urbana" width="250"/><br>
+      <img src="imgs/logo_voz_urbana.jpeg" alt="Logo Voz Urbana" width="360"/><br>
       <strong>Logo Gimnasio</strong>
     </td>
     <td style="text-align: center;">
-      <img src="img/logo_equipo.jpg" alt="Logo ALCORN" width="250"/><br>
-      <strong>Logo de Equipo</strong>
+      <img src="imgs/alcorn_logo.png" alt="Logo ALCORN" width="360"/><br>
+      <strong>Logo de ALRCORN</strong>
     </td>
   </tr>
 </table>
@@ -19,7 +31,7 @@
 
 
 <div style="text-align: center; margin-top: 30px;">
-  <img src="img/Organigrama_Calirolex.png" alt="Organigrama de Equipo" width="800"/>
+  <img src="imgs/organigrama.png" alt="Organigrama de Equipo" width="700"/>
   <p><strong>Organigrama del Equipo</strong></p>
 </div>
 
@@ -58,7 +70,6 @@
   </tbody>
 </table>
 
-## Planteamiento del Problema
 ## Planteamiento del problema
 
 **Xicotepec de Juárez, Puebla**, es una ciudad con gran variedad social y cultural, donde conviven zonas urbanas y rurales que enfrentan distintos desafíos en materia de **servicios públicos, vialidad, seguridad, salud y medio ambiente**.
@@ -83,6 +94,29 @@ Estos reportes estarán **clasificados por categorías** y permitirán la **inte
 
 El uso de **técnicas de análisis de datos** en *Voz Urbana* permitirá transformar la participación digital en **conocimiento útil para la comunidad y las autoridades de Xicotepec**.
 
-A través del análisis de reportes, comentarios y reacciones, será posible **identificar tendencias locales y zonas de mayor conflicto**. Esta información, al ser representada en **mapas y gráficos comprensibles**, fortalecerá la **transparencia** y permitirá a los **tomadores de decisiones priorizar acciones**, generar políticas públicas basadas en evidencia y fomentar una **cultura de colaboración entre ciudadanía y gobierno**.
+A través del análisis de reportes, comentarios y reacciones, será posible **identificar tendencias locales y zonas de mayor conflicto**. Esta información, al ser representada en la interfaz del administrador, fortalecerá la **transparencia** y permitirá a los **tomadores de decisiones priorizar acciones**, proponer políticas públicas basadas en evidencia y fomentar una **cultura de colaboración entre ciudadanía y gobierno**.
 
+## Lista de tecnologías
+
+### Frontend
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)    
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ 
+
+### Base de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Workbench](https://img.shields.io/badge/Workbench-0277BD?style=for-the-badge&logo=mysql&logoColor=white)  
+
+
+### Documentación
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
+
+![Last Update](https://img.shields.io/badge/Última%20Actualización-Julio%202025-red?style=for-the-badge)
 
