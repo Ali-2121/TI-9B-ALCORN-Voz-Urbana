@@ -18,7 +18,7 @@
   <tr>
     <td style="text-align: center;">
       <img src="imgs/logo_voz_urbana.jpeg" alt="Logo Voz Urbana" width="360"/><br>
-      <strong>Logo Gimnasio</strong>
+      <strong>Logo Voz Urbana</strong>
     </td>
     <td style="text-align: center;">
       <img src="imgs/alcorn_logo.png" alt="Logo ALCORN" width="360"/><br>
@@ -31,7 +31,7 @@
 
 
 <div style="text-align: center; margin-top: 30px;">
-  <img src="imgs/organigrama.png" alt="Organigrama de Equipo" width="700"/>
+  <img src="imgs/organigrama.png" alt="Organigrama de Equipo" width="700" style="display: block; margin: 0 auto;" />
   <p><strong>Organigrama del Equipo</strong></p>
 </div>
 
